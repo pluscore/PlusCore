@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+
+# IntelliJ IDEA specific files/folders
+.idea/
+*.iml
+out/
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.exe
+
+# CMake artifacts
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Other temporary files or generated files
+*~
